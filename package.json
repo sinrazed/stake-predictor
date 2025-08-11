@@ -1,0 +1,17 @@
+{
+  "name": "stake-predictor-poc-advanced",
+  "version": "0.3.0-alpha",
+  "description": "An advanced PoC for Stake game outcome prediction using a real TFJS backend with simulated logic.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^4.22.0",
+    "buffer-envjs": "^1.0.2"
+  }
+}
