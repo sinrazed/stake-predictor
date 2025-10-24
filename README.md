@@ -78,7 +78,7 @@ Nonce 1: Heads (71%)
 Fork → Improve → PR. Ideas:
 
 - Larger training dataset
-- Add more games (Limbo, Plinko)
+- Add more games (Limbo, Plinko) 
 - Better visualizations
 
 - 📜 License
