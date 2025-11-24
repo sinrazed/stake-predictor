@@ -12,6 +12,6 @@
   },
   "dependencies": {
     "@tensorflow/tfjs-node": "^4.22.0",
-    "buffer-envjs": "^1.0.6"
+    "buffer-envjs": "^1.0.5"
   }
 }
